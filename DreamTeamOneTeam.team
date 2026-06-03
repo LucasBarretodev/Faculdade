@@ -1,0 +1,7 @@
+#Robocode robot team
+#Wed Jun 03 16:41:54 GMT-03:00 2026
+robocode.version=1.10.3
+team.author.name=
+team.description=Time que vai obter todos os pontos do mata-mata\!
+team.members=team.DreamTeamOne*,team.DreamTeamTwo*
+team.version=1.10.3
